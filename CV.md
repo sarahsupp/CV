@@ -76,3 +76,122 @@ Supp, S. R. and E.P. White. 2010. Measures of journal quality should separate re
 
 
 O'Donnell, R.\*, S.R. Supp and S. M. Cobbold\*. 2010. Hindrance of conservation biology by delays in the submission of manuscripts. Conservation Biology. 24: 615-620. [http://doi.org/10.1111/j.1523-1739.2009.01424.x](http://doi.org/10.1111/j.1523-1739.2009.01424.x)
+
+
+Grants
+--------
+National Science Foundation. Dynamic Macroecology: Globally assessing body size diversity response in plant and animal communities. (Postdoctoral Fellowship in Intersections of Biology, Math, and Physical Sciences). PI: S.R. Supp.  2014-2017. [http://doi.org/10.6084/m9.figshare.1137190](http://doi.org/10.6084/m9.figshare.1137190)
+
+
+Software
+---------
+METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE) [[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
+
+Invited Talks
+--------------
+"Using time-series, ecology, and physiology to predict climate change impacts on hummingbird biodiversity". 2014. NASA Biodiversity and Ecological Forecasting Team Meeting. Silver Springs, MD. co-presented with C.H. Graham
+
+"Describing hummingbird migratory patterns and variation using eBird data". 2014. Cornell Lab of Ornithology. Ithaca, NY.
+
+"Moving macroecology forward with novel experimental approaches". 2013. Utah State University, Logan, UT. Departmental seminar [[Slides](http://doi.org/10.6084/m9.figshare.693743)]
+
+"Moving macroecology forward with novel experimental approaches". Washington University at St. Louis. [[Slides](http://doi.org/10.6084/m9.figshare.693743)]
+
+"Experimentally testing the drivers of the rank abundance distribution – sensitivity to anthropogenic change?". 2012. Gordon Research Seminar, Metabolic Basis of Ecology, Biddeford, ME. [[Slides](http://doi.org/10.6084/m9.figshare.95835)]
+
+Invited Workshops, Symposia, and Working Groups 
+-----------
+"Biodiversity Change". Geman Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. 2014
+
+"Computing in the Cloud". NIMBioS, Knoxville, TN 2014
+
+Professional and Community Service
+---------------------------
+### Grants Panel and Reviewing
+Graduate Women in Sciences 2014
+
+### Manuscript Reviewing
+Methods in Ecology and Evolution, Journal of Biogeography, Ecology and Evolution, Ecology Letters, Ecological Applications
+
+### Leadership for Conferences, Societies, and University Organizations
+Vice-Chair and co-founder, Early Career Ecologist section, Ecological Society of America 2013-
+
+Chair, Gordon Research Seminar-Unifying Ecology Across Scales, 2012-2014
+
+Student Representative, Biology Department, Utah State University, 2008-2011
+
+Student Representative, Ecology Center Director Search Committee, Utah State University 2010
+
+Co-Chair, Ecology Seminar Series, Utah State University 2009-2010
+
+President, Biology Graduate Student Association, Utah State University, 2008-2010
+
+Committee Member and Graduate Student Host, Ecology Center Seminar Series, Utah State University, 2008-2010
+
+
+Teaching
+---------
+### Courses Taught (* instructor, ** teaching assistant)
+Evolutionary Biology* 2012
+Introduction to R** 2012
+Evolutionary Biology** 2010
+Ornithology** 2008
+Human Physiology** 2007
+Field Biology** 2007
+Science of the Indiana Dunes** 2007
+Ecology** 2006
+
+### Workshops (* run and ** assisted)
+Introduction to Git and Github**, Gordon Research Conference-Unifying Ecology Across Scales. 2014
+
+Software Carpentry*, Data Science Center, New York University. 2014
+
+Software Carpentry*, Women in Science and Engineer, MIT. 2013
+
+Software Carpentry**, Utah State University. 2013
+
+Software Carpentry*, Washington University at St. Louis. 2012
+
+Software Carpentry**, Utah State University. 2012
+
+### Software Carpentry
+I am an [instructor](http://software-carpentry.org/badges/instructor.html) for [Software Carpentry](http://software-carpentry.org/) and have helped with lesson development (novice, R).
+
+### Outreach
+"What is a Scientist", K-6 District 33, Hastings, NE. 2011
+
+Earthtones Environmental Education team, Valpariso, IN. 2004-2007
+
+Presentations
+-------------
+[Talk impact](https://impactstory.org/sarahsupp#slides)
+
+<sup>*Before I married, my name was S.R. Mohlman</sup>
+
+Supp, S. R., T. A. Cormier, F. A. La Sorte, G. Bohrer, S. Goetz, D. Powers, S. Wethington, M. Lim, and C. H. Graham. 2014. Using citizen-science data to evaluate the drivers of annual and seasonal variation in hummingbird migration. Gordon Research Seminar, Unifying Ecology Across Scales, Biddeford, ME. [[poster](http://doi.org/10.6084/m9.figshare.1104426)]
+
+Supp, S. R., T. A. Cormier, F. A. La Sorte, G. Bohrer, S. Goetz, D. Powers, S. Wethington, M. Lim, and C. H. Graham. 2014. Using citizen-science data to evaluate the drivers of annual and seasonal variation in hummingbird migration. Gordon Research Conference, Unifying Ecology Across Scales, Biddeford, ME. [[poster](http://doi.org/10.6084/m9.figshare.1104426)]
+
+Supp, S. R., T. A. Cormier, F. A. La Sorte, S. Goetz, D. Powers, S. Wethington, M. Lim, and C. H. Graham. 2014. Using citizen-science data to compare interannual variation in hummingbird migration patterns. Animal Movement Symposium. Raleigh, NC. [[Slides](http://doi.org/10.6084/m9.figshare.1015656)][[Video](https://www.youtube.com/watch?v=HPPmFPJqDB4)]
+
+Supp, S. R. and S. K. M. Ernest. 2013. Life-history trade-offs among core and transient species regulate local diversity and community structure. Ecological Society of America Annual Meeting. Minneapolis, MN. [[Slides](http://doi.org/10.6084/m9.figshare.769244)]
+
+Supp, S. R., Ernest, S.K.M. 2012. Testing the drivers of the species-abundance distribution: the relative importance of composition and state variables. Ecological Society of America Annual Meeting. Portland, OR. [[Slides](http://doi.org/10.6084/m9.figshare.95835)]
+
+Supp, S. R., Ernest, S.K.M. 2012. Experimentally testing the drivers of the species-abundance distribution: the relative importance of composition and state variables. Gordon Research Conference, Metabolic Basis of Ecology, Biddeford, ME. [Invited Poster]
+
+Supp S. R., Xiao, X, Ernest, S.K.M., White, E.P. 2011. Experimentally altering biotic interactions has different effects on static and dynamic macroecological patterns. Ecological Society of America Annual Meeting. Austin, TX. [[Slides](http://doi.org/10.6084/m9.figshare.95850)]
+
+Supp, S. R., O’Donnell, R. P, Cobbold, S. M. 2010. Hindrance of conservation biology by delays in the submission of manuscripts. Student Conference on Conservation Science. Cambridge, UK. [Invited Poster][[Highlighted in Nature](http://doi.org/10.1038/nj7265-831c)] [[Discussed in The Scientist](http://www.the-scientist.com/?articles.view/articleNo/27889/title/Research-remand/)]
+
+R.P. O'Donnell, S.R. Supp, & S.M. Cobbold. 2010. Conservation biology is hindered by delays in the submission of manuscripts. Society for Northwestern Vertebrate Biology. Medford, OR. [Plenary talk; Best Student Presentation award]
+
+Mohlman, S. R. & Ernest, S. K. M. 2009. Predator influences on prey community structure in a long-term experimental rodent-plant system. Ecological Society of America Annual Meeting. Albuquerque, NM. [Poster]
+
+Mohlman, S. R. & Ernest, S. K. M. 2009. Pocket mouse invasion influences desert plant community structure in place of absent Kangaroo rats. American Society of Mammalogist Annual Meeting. Fairbanks, AK. [Poster]
+
+Mohlman, S. R., O’Donnell, R. P., Cobbold, S. M. 2008. Is the progress of conservation biology hindered by delays in the submission of conservation manuscripts? Faculty and Graduate Student Research Symposium, Utah State University. Logan, UT. [Poster]
+
+Mohlman, S. R., Field, J., Schoer, J. 2008. Water quality in east central China and northwest Indiana: issues, perceptions, and approaches for resolution: Part II. ASIANetwork Annual Conference. San Antonio, TX. [Poster]
+
+Eberhardt, L., Mohlman, S. R., Zuercher, R., Lute-Kulaga, M. 2007. Yellow-bellied sapsucker (Sphyrapicus varius) feeding preferences for Carya ovata in relation to species diversity in Northwest Indiana woods. Indiana Dunes Research Forum. Highland, IN. [Poster]
