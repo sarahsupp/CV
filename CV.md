@@ -4,7 +4,7 @@ Sarah Supp's Curriculum Vitae
 Contact
 --------
 
-Email: [sarah.supp@stonybrook.edu](mailto:sarah.supp@stonybrook.edu)
+Email: [sarah@weecology.org](mailto:sarah@weecology.org)
 
 Twitter: [@srsupp](http://twitter.com/srsupp)
 
@@ -21,7 +21,7 @@ Education
 
 Research and Professional Experience
 -----------------------------------
-2014- NSF Postdoctoral Fellow, Intersections of Math and Biology. Dynamic macroecology: Globally assessing body size diversity response in plant and animal communities. University of Maine and University of Vermont
+2014-present NSF Postdoctoral Fellow, Intersections of Math and Biology. Dynamic macroecology: Globally assessing body size diversity response in plant and animal communities. University of Maine and University of Vermont
 
 2013-2014 Postdoctoral Research Associate, Stony Brook University
 
@@ -56,24 +56,25 @@ Publications
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ###Journal Articles
-Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In review*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecology
+Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In review*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere
+
+Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman *in press*. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America
+
+Scholes, D.R., D.E. Stanton, and S.R. Supp. 2014. ESA’s Early Career Ecologist Section:  Supporting the professional development of early career ecologists in all career trajectories. Bulletin of the Ecological Society of America 95: 435-438.[http://doi.org/10.1890/0012-9623-95.4.435](http://doi.org/10.1890/0012-9623-95.4.435) [**OA**]
 
 Supp, S. R. and S. K. M. Ernest. 2014. Species-level and community-level responses to disturbance: a cross-community analysis. Ecology 95: 1717-1723. [http://doi.org/10.1890/13-2250.1](http://doi.org/10.1890/13-2250.1) [**OA**]
 
 White, E. P., E. M. Baldridge\*, Z. T. Brym\*, K. J. Locey\*, D. J. McGlinn<sup>+</sup>, and S. R. Supp. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. 6: 1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
-
 Supp, S. R. 2013. Local and regional drivers of biodiversity: from life-history traits to system-level properties. Graduate Dissertation. Utah State University. [http://digitalcommons.usu.edu/etd/1503](http://digitalcommons.usu.edu/etd/1503) [**OA**]
 
 Supp, S. R., X. Xiao\*, S. K. M. Ernest, and E. P. White. 2012. An experimental test of the response of macroecological patterns to altered species interactions. Ecology. 93: 2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1) [**OA**, *Top 4 Articles in Ecology in year following publication*]
-
 
 Cobbold, S. M.\* and S. R. Supp. 2012. Patch shape alters spider community structure: links between microhabitat choice and sensitivity to increased edge habitat. Journal of Insect Conservation. 4: 581-589. [http://doi.org/10.1007/s10841-011-9443-2](http://doi.org/10.1007/s10841-011-9443-2) [**OA**]
 
 Thibault, K. M.<sup>+</sup>, S. R. Supp, M. Giffin\*\*, E. P. White and S. K. M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology. 92: 2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1) [**OA**]
 
 Supp, S. R. and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution. 3: 16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [**OA**]
-
 
 O'Donnell, R.\*, S.R. Supp and S. M. Cobbold\*. 2010. Hindrance of conservation biology by delays in the submission of manuscripts. Conservation Biology. 24: 615-620. [http://doi.org/10.1111/j.1523-1739.2009.01424.x](http://doi.org/10.1111/j.1523-1739.2009.01424.x)
 
@@ -87,8 +88,11 @@ Software
 ---------
 METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE) [[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
 
+
 Invited Talks
 --------------
+"Species-level and community-level diversity responses to disturbance: a cross-community analysis". 2014. Biodiversity Change workshop. s-Div, German Centre for Biodiversity Research, Leipzig, Germany.
+
 "Using time-series, ecology, and physiology to predict climate change impacts on hummingbird biodiversity". 2014. NASA Biodiversity and Ecological Forecasting Team Meeting. Silver Springs, MD. co-presented with C.H. Graham
 
 "Describing hummingbird migratory patterns and variation using eBird data". 2014. Cornell Lab of Ornithology. Ithaca, NY.
@@ -99,11 +103,13 @@ Invited Talks
 
 "Experimentally testing the drivers of the rank abundance distribution – sensitivity to anthropogenic change?". 2012. Gordon Research Seminar, Metabolic Basis of Ecology, Biddeford, ME. [[Slides](http://doi.org/10.6084/m9.figshare.95835)]
 
+
 Invited Workshops, Symposia, and Working Groups 
 -----------
 "Biodiversity Change". Geman Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. 2014
 
 "Computing in the Cloud". NIMBioS, Knoxville, TN 2014
+
 
 Professional and Community Service
 ---------------------------
