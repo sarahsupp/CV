@@ -56,9 +56,11 @@ Publications
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ###Journal Articles
-Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In review*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere
+Supp, S. R., D. N. Koons, and S. K. M. Ernest. *in review*. Using life-history trade-offs to understand core-transient structuring of a small mammal community. Ecosphere.  [**OA**, [Preprint](http://peerj.com/preprints/629/)]
 
-Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman *in press*. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America
+Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In press*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere.  [**OA**]
+
+Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman *in press*. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America  [**OA**]
 
 Scholes, D.R., D.E. Stanton, and S.R. Supp. 2014. ESA’s Early Career Ecologist Section:  Supporting the professional development of early career ecologists in all career trajectories. Bulletin of the Ecological Society of America 95: 435-438.[http://doi.org/10.1890/0012-9623-95.4.435](http://doi.org/10.1890/0012-9623-95.4.435) [**OA**]
 
@@ -117,10 +119,12 @@ Professional and Community Service
 Graduate Women in Sciences 2014
 
 ### Manuscript Reviewing
-Methods in Ecology and Evolution, Journal of Biogeography, Ecology and Evolution, Ecology Letters, Ecological Applications
+Methods in Ecology and Evolution, Journal of Biogeography, Ecology and Evolution, Ecology Letters, Ecological Applications, Ecology
 
 ### Leadership for Conferences, Societies, and University Organizations
-Vice-Chair and co-founder, Early Career Ecologist section, Ecological Society of America 2013-
+Co-PI for proposed sDiv working group, Biodiversity Changes, Leipzig, Germany
+
+Vice-Chair and co-founder, Early Career Ecologist section, Ecological Society of America 2013-present
 
 Chair, Gordon Research Seminar-Unifying Ecology Across Scales, 2012-2014
 
