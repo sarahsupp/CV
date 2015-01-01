@@ -60,7 +60,7 @@ Supp, S. R., D. N. Koons, and S. K. M. Ernest. *in review*. Using life-history t
 
 Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In press*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere.  [**OA**]
 
-Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman *in press*. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America  [**OA**]
+Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman. 2015. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America 96: 140-152 [http://dx.doi.org/10.1890/0012-9623-96.1.140](http://dx.doi.org/10.1890/0012-9623-96.1.140) [**OA**]
 
 Scholes, D.R., D.E. Stanton, and S.R. Supp. 2014. ESA’s Early Career Ecologist Section:  Supporting the professional development of early career ecologists in all career trajectories. Bulletin of the Ecological Society of America 95: 435-438.[http://doi.org/10.1890/0012-9623-95.4.435](http://doi.org/10.1890/0012-9623-95.4.435) [**OA**]
 
