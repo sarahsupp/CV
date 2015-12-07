@@ -8,9 +8,9 @@ Email: [sarah@weecology.org](mailto:sarah@weecology.org)
 
 Twitter: [@srsupp](http://twitter.com/srsupp)
 
-Website: [http://weecology.org/people/sarahsupp/Sarah_Supp](http://weecology.org/people/sarahsupp/Sarah_Supp)
+Website: [http://wwww.sarahsupp.org](http://wwww.sarahsupp.org)
 
-Mail: Department of Ecology and Evolution, Stony Brook University, Stony Brook, NY 11794-5245
+Mail: School of Biology and Ecology, University of Maine, Orono, ME, USA
 
 
 Education
@@ -19,9 +19,10 @@ Education
 
 2007    BS Biology (*magna cum laude*), minors in Chemistry and Spanish, Valparaiso University
 
+
 Research and Professional Experience
 -----------------------------------
-2014-present NSF Postdoctoral Fellow, Intersections of Math and Biology. Dynamic macroecology: Globally assessing body size diversity response in plant and animal communities. University of Maine and University of Vermont
+2014-present NSF Postdoctoral Fellow, Intersections of Math and Biology. Dynamic macroecology: Globally assessing body size diversity response in plant and animal communities. University of Maine, University of Vermont, and University of Wisconsin-Madison
 
 2013-2014 Postdoctoral Research Associate, Stony Brook University
 
@@ -56,9 +57,13 @@ Publications
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 ###Journal Articles
-Supp, S. R., D. N. Koons, and S. K. M. Ernest. *in review*. Using life-history trade-offs to understand core-transient structuring of a small mammal community. Ecosphere.  [**OA**, [Preprint](http://peerj.com/preprints/629/)]
+Ernest, S.K.M., G.M. Yenni, G. Allington, E.M. Christensen\*, K. Geluso, J.R. Goheen, M.R. Schutzenhofer, S.R. Supp, K.M. Thibault, J.H. Brown, T.J. Valone. *in review*. Long-term monitoring and experimental manipulation of a Chihuahuan desert ecosystem near Portal, Arizona, dataset 2003-2013. Ecological Archives. [**OA**]
 
-Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. *In press*. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere.  [**OA**]
+Graham, C.H., S.R. Supp, D.R. Powers, P.A. Beck, M.C.W. Lim\*, A. Shankar\*, T.A. Cormier, S.J. Goetz, and S. Wethington. *in review.* Winter conditions influence biological responses of migrating hummingbirds. Ecology. [**OA**, [GitHub](https://github.com/sarahsupp/extreme_limits)]
+
+Supp, S. R., D. N. Koons, and S. K. M. Ernest. 2015. Using life-history trade-offs to understand core-transient structuring of a small mammal community. Ecosphere. 6: art187 [http://dx.doi.org/10.1890/ES15-00239.1](http://dx.doi.org/10.1890/ES15-00239.1)  [**OA**, [Preprint](http://peerj.com/preprints/629/)]
+
+Supp, S. R., F. A. La Sorte, T. A. Cormier, M. C. W. Lim\*, D. Powers, S. Wethington, S. Goetz, and C H. Graham. 2015. Citizen-science data provides new insight into annual and seasonal variation in migration patterns. Ecosphere. 6: art15 [http://dx.doi.org/10.1890/ES14-00290.1](http://dx.doi.org/10.1890/ES14-00290.1) [**OA**, [media](http://blog.allaboutbirds.org/2015/03/25/annual- changes-in-hummingbird-migration-revealed-by-birders-sightings/)]
 
 Shaw, A.K., D.E. Stanton, S.R. Supp, A. Budden, S. Eby, P.L. Reynolds, R. Salguero-Gómez, D.R. Scholes, and N.B. Zimmerman. 2015. Ecology postdocs in academia: primary concerns and possible solutions. Bulletin of the Ecological Society of America 96: 140-152 [http://dx.doi.org/10.1890/0012-9623-96.1.140](http://dx.doi.org/10.1890/0012-9623-96.1.140) [**OA**]
 
@@ -78,12 +83,13 @@ Thibault, K. M.<sup>+</sup>, S. R. Supp, M. Giffin\*\*, E. P. White and S. K. M.
 
 Supp, S. R. and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution. 3: 16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [**OA**]
 
-O'Donnell, R.\*, S.R. Supp and S. M. Cobbold\*. 2010. Hindrance of conservation biology by delays in the submission of manuscripts. Conservation Biology. 24: 615-620. [http://doi.org/10.1111/j.1523-1739.2009.01424.x](http://doi.org/10.1111/j.1523-1739.2009.01424.x)
+O'Donnell, R.\*, S.R. Supp and S. M. Cobbold\*. 2010. Hindrance of conservation biology by delays in the submission of manuscripts. Conservation Biology. 24: 615-620. [http://doi.org/10.1111/j.1523-1739.2009.01424.x](http://doi.org/10.1111/j.1523-1739.2009.01424.x) [[media](http://www.the-scientist.com/?
+articles.view/articleNo/27889/title/Research-remand/)]
 
 
 Grants
 --------
-National Science Foundation. Dynamic Macroecology: Globally assessing body size diversity response in plant and animal communities. (Postdoctoral Fellowship in Intersections of Biology, Math, and Physical Sciences). PI: S.R. Supp.  2014-2017. [http://doi.org/10.6084/m9.figshare.1137190](http://doi.org/10.6084/m9.figshare.1137190)
+National Science Foundation. Dynamic Macroecology: Globally assessing body size diversity response in plant and animal communities. (Postdoctoral Fellowship in Intersections of Biology, Math, and Physical Sciences). PI: S.R. Supp.  2014-2017. [http://doi.org/10.6084/m9.figshare.1137190](http://doi.org/10.6084/m9.figshare.1137190) 
 
 
 Software
@@ -93,6 +99,22 @@ METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of E
 
 Invited Talks
 --------------
+"The role of open and citizen science data in assessing avian movement: eBird and remote sensing data provide insights to hummingbird migration". *2016*. Symposium on Big Data Ornithology, North American Ornithological Conference. Washington, D.C. 
+
+"Animal movement, community dynamics, and the maintenance of biodiversity in animal systems". *2016* Department of Biology. Valparaiso University, Valparaiso, IN.
+
+"Dynamic macroecology for a changing world". 2015. Department of Biology. University of Oklahoma, Norman, OK.
+
+"Dynamic macroecology for a changing world". 2015. School of Biology and Ecology. University of Maine, Orono, ME.
+
+"The role of open science and citizen science in assessing human impacts". 2015. Organized Oral SEssion: New Perspectives for Ecology During the Anthropocene. Ecolocial Society of America Annual Meeting. Baltimore, MD
+
+"Understanind recent biodiversity change across scales". 2015. Biodiversity Change Seminar, Biodiversity Research Centre, University of British Colombia. Vancouver, B.C., Canada.
+
+"Dynamic macroecology for a changing world". 2015. College of Life Sciences and Agriculture. University of New Hampshire, Durham, NH.
+
+"Dynamic macroecology for a changing world". 2015. Department of Biological Sciences Seminar. Northern Illinois University, DeKalb, IL.
+
 "Species-level and community-level diversity responses to disturbance: a cross-community analysis". 2014. Biodiversity Change workshop. s-Div, German Centre for Biodiversity Research, Leipzig, Germany.
 
 "Using time-series, ecology, and physiology to predict climate change impacts on hummingbird biodiversity". 2014. NASA Biodiversity and Ecological Forecasting Team Meeting. Silver Springs, MD. co-presented with C.H. Graham
@@ -108,7 +130,15 @@ Invited Talks
 
 Invited Workshops, Symposia, and Working Groups 
 -----------
-"Biodiversity Change". Geman Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. 2014
+"Community Assembly and the Functioning of Ecosystems". German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. *2016*
+
+"Quantifying Biodiversity Changes". German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. *2016*
+
+"Data Intensive Training". National Center for Ecological Analysis and Synthesis (NCEAS), Santa Barbara, CA. 2015
+
+"Quantifying Biodiversity Changes". Canadian Institute for Ecology and Evolution (CIEE), Vacouver, British Columbia and Montreal, Quebec. 2015 (2 meetings)
+
+"Biodiversity Change". German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany. 2014
 
 "Computing in the Cloud". NIMBioS, Knoxville, TN 2014
 
@@ -116,15 +146,18 @@ Invited Workshops, Symposia, and Working Groups
 Professional and Community Service
 ---------------------------
 ### Grants Panel and Reviewing
+Cards Against Humanity Science Ambassador Scholarship for Undergraduate Women in STEM 2015-2016
 Graduate Women in Sciences 2014
 
 ### Manuscript Reviewing
-Methods in Ecology and Evolution, Journal of Biogeography, Ecology and Evolution, Ecology Letters, Ecological Applications, Ecology
+Methods in Ecology and Evolution, Journal of Biogeography, Ecology and Evolution, Ecology Letters, Ecological Applications, Ecology, Ecosphere, Journal of Field Ornithology, Oecologia
 
 ### Leadership for Conferences, Societies, and University Organizations
-Co-PI for proposed sDiv working group, Biodiversity Changes, Leipzig, Germany
+Instructor for [Software Carpentry](http://software-carpentry.org) and [Data Carpentry](http://www.datacarpentry.org) 2013-present
 
-Vice-Chair and co-founder, Early Career Ecologist section, Ecological Society of America 2013-present
+Co-PI for jointly funded sDiv working group (iDiv and CIEE), Quantifying Biodiversity Changes, Leipzig, Germany 2014-2016
+
+Chair, Vice Chair, and co-founder, Early Career Ecologist section, Ecological Society of America 2013-present
 
 Chair, Gordon Research Seminar-Unifying Ecology Across Scales, 2012-2014
 
@@ -152,11 +185,15 @@ Science of the Indiana Dunes** 2007
 Ecology** 2006
 
 ### Workshops (* run and ** assisted)
+Data Carpentry\*, Advanced Computing Initiative, University of Wisconsin-Madison. *2016*
+
+Software Carpentry*, Women in Science and Engineering, University of Michigan-Ann Arbor. 2015
+
 Introduction to Git and Github**, Gordon Research Conference-Unifying Ecology Across Scales. 2014
 
 Software Carpentry*, Data Science Center, New York University. 2014
 
-Software Carpentry*, Women in Science and Engineer, MIT. 2013
+Software Carpentry*, Women in Science and Engineering, MIT. 2013
 
 Software Carpentry**, Utah State University. 2013
 
@@ -165,7 +202,7 @@ Software Carpentry*, Washington University at St. Louis. 2012
 Software Carpentry**, Utah State University. 2012
 
 ### Software Carpentry
-I am an [instructor](http://software-carpentry.org/badges/instructor.html) for [Software Carpentry](http://software-carpentry.org/) and have helped with lesson development (novice, R).
+I am an [instructor](http://software-carpentry.org/badges/instructor.html) for [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org) and have helped with lesson development (novice, R).
 
 ### Outreach
 "What is a Scientist", K-6 District 33, Hastings, NE. 2011
